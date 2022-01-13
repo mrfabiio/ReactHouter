@@ -1,3 +1,17 @@
+<h1>Descrição do conteúdo aprendido:</h1>
+
+* Aprendi a utilizar rotas com BrowserRoute,Routes, Route.
+  Dessa forma, criei três rotas que são: Produtos, Contato, Produto.
+* Conheci e coloquei em prática a utilização do useParams numa API e utilizei 
+  o React.useEffect pra toda vez que mudar o useParams. 
+* Reforcei o conhecimento do uso fetch utilizando o await.
+* Aprendi a importar uma foto para o React.
+* Utilizei o import styles e pra cada componente criei um outro com o module.css,
+ com finalidade de aprendizado e exercitar o conhecimento.
+* Criei um componente chamado Head e reutilizei em outros componentes.Assim, 
+  reforçando o conhecimento de reutilização de um componente.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
